@@ -1,4 +1,13 @@
-Nama : Deta Triandini
+<html>
+<head>
+   <title>Link Video Tutorial</title>
+</head>
+<body>
+<h3>Tutorial Git</h3>
+<h4>Nama : Deta Triandini
 NIM : 1207050025
 Kelas : IF B
-Link Video : https://youtu.be/XhD0laHhVoU
+</h4>
+<a href="https://youtu.be/XhD0laHhVoU">di sini</a>
+</body>
+</html>
